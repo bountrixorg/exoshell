@@ -1,4 +1,4 @@
-# 404XL TERMINAL
+# Exoshell
 
 **Minimalist Offensive Security & Reverse Shell Utility Interface**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-**404XL TERMINAL** is a lightweight, high-contrast, and minimalist command execution and reverse shell control interface built into a single, self-contained PHP file. Designed specifically for penetration testers, security researchers, and cybersecurity instructors, it combines a clean terminal environment with an embedded background reverse shell capability.
+**Exoshell** is a lightweight, high-contrast, and minimalist command execution and reverse shell control interface built into a single, self-contained PHP file. Designed specifically for penetration testers, security researchers, and cybersecurity instructors, it combines a clean terminal environment with an embedded background reverse shell capability.
 
 ---
 
@@ -57,7 +57,7 @@ Make your changes in the text area and click **SAVE**.
 ## Project Structure
 
 ```text
-└── index.php        # All-in-one terminal interface & reverse shell logic
+└── index.php        # All-in-one Exoshell interface & reverse shell logic
 
 ```
 
