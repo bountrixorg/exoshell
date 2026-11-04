@@ -106,7 +106,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['save_nano'])) {
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>EXOSHELL</title>
+  <title>SPECTER</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Space+Grotesk:wght@400;600;700&display=swap');
 
@@ -470,7 +470,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['save_nano'])) {
           <polyline points="4 17 10 11 4 5"></polyline>
           <line x1="12" y1="19" x2="20" y2="19"></line>
         </svg>
-        <h2>EXOSHELL</h2>
+        <h2>SPECTER</h2>
       </div>
 
       <!-- Pure Icon (ⓘ) Without Box -->
